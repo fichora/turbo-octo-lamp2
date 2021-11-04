@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Super application
+    </string>
+    <string name="there_is_no_button_here">There is no button here</string>
+    <string name="and_what">and what?</string>
+    <string name="button">BUTTON</string>
+    <string name="hello">Hello</string>
+    <string name="вкл">включить свет</string>
+    <string name="bye">Bye</string>
+    <string name="random">random</string>
+</resources>
